@@ -1,4 +1,4 @@
-# restaurant
+# restaurant angular
 Simple application angular
 
 
